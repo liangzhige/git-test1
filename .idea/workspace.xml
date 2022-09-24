@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68fd7b4c-07a4-4871-8acf-8eea337eaaf3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664006889721</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hot-fix commit2">
+      <created>1664008453703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664008453703</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,17 +123,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="hot-fix commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hot-fix commit2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="558" y="87" width="1165" height="866" key="CommitChangelistDialog2" timestamp="1664006883591">
+    <state x="558" y="87" width="1165" height="866" key="CommitChangelistDialog2" timestamp="1664008449839">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="87" width="1165" height="866" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1664006883591" />
+    <state x="558" y="87" width="1165" height="866" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1664008449839" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1664007338790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
